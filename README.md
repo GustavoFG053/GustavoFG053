@@ -2,7 +2,7 @@
 <h3 align="center">Sou Biólogo e graduando em Ciências de Dados</h3>
 <br>
 
-- 💪 Atualmente trabalho em uma empresa de produtos químicos para piscinas, e com a análise de dados estou ajudando a corrigir problemas e desenvolver novos produtos para a **Industria**
+- 💪 Atualmente trabalho em uma empresa de certificação ambiental, e com a análise de dados estou ajudando a corrigir problemas e desenvolver novos produtos para a **Industria**
 
 - 🌱 Eu estou aprendendo **Django, Python,SQL, CSS e Java Script**
 
